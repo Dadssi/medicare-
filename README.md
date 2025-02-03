@@ -71,8 +71,8 @@ medical-cabinet/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votre-utilisateur/medicare.git
-   cd medicare
+   git clone https://github.com/Dadssi/medicare-.git
+   cd medicare-
    ```
 2. **Installer les dépendances**
    ```bash
