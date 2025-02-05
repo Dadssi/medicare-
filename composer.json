@@ -1,0 +1,14 @@
+{
+    "name": "cabinet-medical-mvc",
+    "description": "Application de gestion de cabinet médical",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
